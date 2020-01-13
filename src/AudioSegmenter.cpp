@@ -4,7 +4,11 @@
 #include <QProcess>
 #include <QDir>
 
+<<<<<<< HEAD
 #include "annotation/Interval.h"
+=======
+#include "pncore/annotation/Interval.h"
+>>>>>>> 238625fea2791ea254c0e56a609da0f4a247320b
 using namespace Praaline::Core;
 
 #include "AudioSegmenter.h"

@@ -3,14 +3,21 @@
 
 #include <QString>
 #include <QPair>
+<<<<<<< HEAD
 
 #include "praaline-lib-media_global.h"
+=======
+>>>>>>> 238625fea2791ea254c0e56a609da0f4a247320b
 #include "base/RealTime.h"
 
 namespace Praaline {
 namespace Media {
 
+<<<<<<< HEAD
 class PRAALINE_LIB_MEDIA_SHARED_EXPORT SoundInfo
+=======
+class SoundInfo
+>>>>>>> 238625fea2791ea254c0e56a609da0f4a247320b
 {
 public:
     SoundInfo();

@@ -3,12 +3,9 @@
 
 #include <QString>
 #include <QList>
-<<<<<<< HEAD
+
 #include "praaline-lib-media_global.h"
 #include "base/RealTime.h"
-=======
-#include "pncore/base/RealTime.h"
->>>>>>> 238625fea2791ea254c0e56a609da0f4a247320b
 
 namespace Praaline {
 
@@ -18,11 +15,7 @@ namespace Core {
 
 namespace Media {
 
-<<<<<<< HEAD
 class PRAALINE_LIB_MEDIA_SHARED_EXPORT AudioSegmenter
-=======
-class AudioSegmenter
->>>>>>> 238625fea2791ea254c0e56a609da0f4a247320b
 {
 public:
     static bool resample(const QString &filenameIn, const QString &filenameOut,

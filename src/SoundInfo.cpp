@@ -9,10 +9,7 @@
 #include <QCoreApplication>
 #include <QTextStream>
 #include <QCryptographicHash>
-<<<<<<< HEAD
 
-=======
->>>>>>> 238625fea2791ea254c0e56a609da0f4a247320b
 #include "base/RealTime.h"
 #include "SoundInfo.h"
 

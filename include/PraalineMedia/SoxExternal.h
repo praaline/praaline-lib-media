@@ -2,12 +2,12 @@
 #define SOXEXTERNAL_H
 
 #include <QObject>
-#include "praaline-lib-media_global.h"
+#include "PraalineMedia/PraalineMedia_Global.h"
 
 namespace Praaline {
 namespace Media {
 
-class PRAALINE_LIB_MEDIA_SHARED_EXPORT SoxExternal : public QObject
+class PRAALINE_MEDIA_SHARED_EXPORT SoxExternal : public QObject
 {
     Q_OBJECT
 public:

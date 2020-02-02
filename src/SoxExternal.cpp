@@ -3,7 +3,7 @@
 #include <QCoreApplication>
 #include <QProcess>
 
-#include "SoxExternal.h"
+#include "PraalineMedia/SoxExternal.h"
 
 namespace Praaline {
 namespace Media {

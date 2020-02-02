@@ -10,8 +10,8 @@
 #include <QTextStream>
 #include <QCryptographicHash>
 
-#include "base/RealTime.h"
-#include "SoundInfo.h"
+#include "PraalineCore/Base/RealTime.h"
+#include "PraalineMedia/SoundInfo.h"
 
 namespace Praaline {
 namespace Media {

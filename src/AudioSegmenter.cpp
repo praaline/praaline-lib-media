@@ -4,10 +4,10 @@
 #include <QProcess>
 #include <QDir>
 
-#include "annotation/Interval.h"
+#include "PraalineCore/Annotation/Interval.h"
 using namespace Praaline::Core;
 
-#include "AudioSegmenter.h"
+#include "PraalineMedia/AudioSegmenter.h"
 
 namespace Praaline {
 namespace Media {
